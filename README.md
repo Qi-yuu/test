@@ -5,13 +5,15 @@
 |:-------------------: |  :---------------:   |
 |作业链接|[软工实践寒假作业(2/2)](https://edu.cnblogs.com/campus/fzu/2020SPRINGS/homework/10287)|
 |博客链接|[七yu](https://www.cnblogs.com/77yublog/)|
-</br></br>
 
+
+</br></br>
 ## 运行 ##
 命令行（win+r cmd）cd到项目src下，之后输入命令：
 > $ java InfectStatistic list -date 2020-01-22 -log D:/log/ -out D:/output.txt
-</br></br>
 
+
+</br></br>
 ## 功能简介 ##
 列出全国和各省在某日的感染情况
 * `-log` 指定日志目录的位置，该项必需附带，请直接使用传入的路径。
