@@ -11,9 +11,9 @@
 
 ## 运行 ##
 命令行（win+r cmd）cd到项目src下，之后输入命令：
-$ javac -encoding UTF-8 InfectStatistic.java
-然后输入命令：
-$ java InfectStatistic list -date 2020-01-22 -log D:/log/ -out D:/output.txt
+</br>$ javac -encoding UTF-8 InfectStatistic.java
+</br>然后输入命令：
+</br>$ java InfectStatistic list -date 2020-01-22 -log D:/log/ -out D:/output.txt
 </br>
 
 ## 功能简介 ##
