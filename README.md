@@ -5,7 +5,7 @@
 |这个作业属于哪个课程|[2020春s班](https://edu.cnblogs.com/campus/fzu/2020SPRINGS/)|
 |:-------------------: |  :---------------:   |
 |作业链接|[软工实践寒假作业(2/2)](https://edu.cnblogs.com/campus/fzu/2020SPRINGS/homework/10287)|
-|博客链接|[七yu](https://www.cnblogs.com/77yublog/)|
+|博客链接|[七yu](https://www.cnblogs.com/77yublog/p/12301199.html)|
 
 </br>
 
